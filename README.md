@@ -1,6 +1,9 @@
 # PatternAPP
 Tekstil sektöründe çalışan firmalar için desenlerin kontrolünün sağlanması için ve desen maliyetlerinin hesaplanması için yazılan Desen Maliyet Programı
 
+# İLETİSİM 
+emirhan@buferatextile.com.tr
+
 # LOGİN SAYFASI
 ![Ekran görüntüsü 2024-08-15 101541](https://github.com/user-attachments/assets/816e26da-2488-43b4-9a40-c32ce9685666)
 # ANA SAYFA
